@@ -1,0 +1,17 @@
+.each-list {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  padding-left: 10px;
+  background-color: white;
+  border-radius: 10px;
+  padding-bottom: 10px;
+  cursor: pointer;
+}
+
+.each-list-container {
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  padding: 10px;
+}
